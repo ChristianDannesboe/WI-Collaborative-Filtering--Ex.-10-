@@ -1,0 +1,12 @@
+C:\Users\Danne\Documents\GitHub\P7\WI\ExerciseSession10\CollaborativeFiltering\CollaborativeFiltering\bin\Debug\netcoreapp2.0\u.data
+C:\Users\Danne\Documents\GitHub\P7\WI\ExerciseSession10\CollaborativeFiltering\CollaborativeFiltering\bin\Debug\netcoreapp2.0\ua.test
+C:\Users\Danne\Documents\GitHub\P7\WI\ExerciseSession10\CollaborativeFiltering\CollaborativeFiltering\bin\Debug\netcoreapp2.0\CollaborativeFiltering.deps.json
+C:\Users\Danne\Documents\GitHub\P7\WI\ExerciseSession10\CollaborativeFiltering\CollaborativeFiltering\bin\Debug\netcoreapp2.0\CollaborativeFiltering.runtimeconfig.json
+C:\Users\Danne\Documents\GitHub\P7\WI\ExerciseSession10\CollaborativeFiltering\CollaborativeFiltering\bin\Debug\netcoreapp2.0\CollaborativeFiltering.runtimeconfig.dev.json
+C:\Users\Danne\Documents\GitHub\P7\WI\ExerciseSession10\CollaborativeFiltering\CollaborativeFiltering\bin\Debug\netcoreapp2.0\CollaborativeFiltering.dll
+C:\Users\Danne\Documents\GitHub\P7\WI\ExerciseSession10\CollaborativeFiltering\CollaborativeFiltering\bin\Debug\netcoreapp2.0\CollaborativeFiltering.pdb
+C:\Users\Danne\Documents\GitHub\P7\WI\ExerciseSession10\CollaborativeFiltering\CollaborativeFiltering\obj\Debug\netcoreapp2.0\CollaborativeFiltering.csprojAssemblyReference.cache
+C:\Users\Danne\Documents\GitHub\P7\WI\ExerciseSession10\CollaborativeFiltering\CollaborativeFiltering\obj\Debug\netcoreapp2.0\CollaborativeFiltering.AssemblyInfoInputs.cache
+C:\Users\Danne\Documents\GitHub\P7\WI\ExerciseSession10\CollaborativeFiltering\CollaborativeFiltering\obj\Debug\netcoreapp2.0\CollaborativeFiltering.AssemblyInfo.cs
+C:\Users\Danne\Documents\GitHub\P7\WI\ExerciseSession10\CollaborativeFiltering\CollaborativeFiltering\obj\Debug\netcoreapp2.0\CollaborativeFiltering.dll
+C:\Users\Danne\Documents\GitHub\P7\WI\ExerciseSession10\CollaborativeFiltering\CollaborativeFiltering\obj\Debug\netcoreapp2.0\CollaborativeFiltering.pdb

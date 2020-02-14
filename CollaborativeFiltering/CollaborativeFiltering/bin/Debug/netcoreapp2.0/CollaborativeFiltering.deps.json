@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "CollaborativeFiltering/1.0.0": {
+        "dependencies": {
+          "MathNet.Numerics": "3.20.0"
+        },
+        "runtime": {
+          "CollaborativeFiltering.dll": {}
+        }
+      },
+      "MathNet.Numerics/3.20.0": {
+        "runtime": {
+          "lib/net40/MathNet.Numerics.dll": {
+            "assemblyVersion": "3.20.0.0",
+            "fileVersion": "3.20.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CollaborativeFiltering/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MathNet.Numerics/3.20.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yH7wtvJEL/f7Y4v3EYzqU5taLnuhN7BTYNX0g+NCsQI9DQlTVjabMybS+Pvxqi5TgDDKu+xtT6vqzmtFHIzGyw==",
+      "path": "mathnet.numerics/3.20.0",
+      "hashPath": "mathnet.numerics.3.20.0.nupkg.sha512"
+    }
+  }
+}
